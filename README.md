@@ -33,6 +33,8 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 * 6 TPs
   * TP1: Xtext, first steps with VideoGen https://docs.google.com/document/d/1CX2wWiRCxi2qcb8pvMG4T8G_fGaWaKnKnYDDLXtEnC4/edit?usp=sharing
   * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/14Ks3DwE3IonAdDY3x_jaCEkXwrfOwM2VhWwLux0D_8Q/edit?usp=sharing
+  * TP3: Model transformation, data analysis 
+  https://docs.google.com/document/d/1OETjPKA7_bOuGKKt19Wc_fN4l7MWM0NUm8ra2N72oNM/edit?usp=sharing
 
 
 ## Exercices/Homework 
