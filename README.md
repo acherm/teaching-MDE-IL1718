@@ -23,8 +23,8 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 
 ## Evaluation 
 
-* 50% (homework + project)
-* 50% (partiel) 
+* 33% (project)
+* 66% (partiel) 
 
 ## Lab sessions 
 
@@ -35,6 +35,7 @@ We illustrate the course with a running project, VideoGen, a configurable genera
   * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/14Ks3DwE3IonAdDY3x_jaCEkXwrfOwM2VhWwLux0D_8Q/edit?usp=sharing
   * TP3: Model transformation, data analysis 
   https://docs.google.com/document/d/1OETjPKA7_bOuGKKt19Wc_fN4l7MWM0NUm8ra2N72oNM/edit?usp=sharing
+  * TP4: test, refactoring, and continuing https://docs.google.com/document/d/1iGbMMBfPwhAcMeMvsGQ0Lf0atHzuaWNUzEjEVuQaijs/edit?usp=sharing
 
 
 ## Exercices/Homework 
