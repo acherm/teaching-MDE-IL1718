@@ -30,6 +30,7 @@ We illustrate the course with a running project, VideoGen, a configurable genera
 
 * 2 TDs 
    * TD1: https://docs.google.com/document/d/12WgEgLx8gfokdLC2iNmQpB3lIMN9lIRzwZlodgAil3w/edit?usp=sharing
+   * TD2: cf TD2-prepaExam.pdf 
 * 6 TPs
   * TP1: Xtext, first steps with VideoGen https://docs.google.com/document/d/1CX2wWiRCxi2qcb8pvMG4T8G_fGaWaKnKnYDDLXtEnC4/edit?usp=sharing
   * TP2: Model transformation, let's play video variants! https://docs.google.com/document/d/14Ks3DwE3IonAdDY3x_jaCEkXwrfOwM2VhWwLux0D_8Q/edit?usp=sharing
